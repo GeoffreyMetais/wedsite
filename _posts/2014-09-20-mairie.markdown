@@ -1,0 +1,8 @@
+---
+layout: default
+img: mairie.jpg
+category: Services
+title: Engagement à la mairie
+description: |
+---
+Bla bla bla

@@ -1,0 +1,8 @@
+---
+layout: default
+img: volcan.jpg
+category: Services
+title: Repas et soirée
+description: |
+---
+  Le repas et la soirée se dérouleront à Marolles-en-Brie.
