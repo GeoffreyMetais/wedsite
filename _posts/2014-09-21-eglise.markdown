@@ -5,4 +5,4 @@ category: Services
 title: Cérémonie à l'église
 description: |
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Bénédiction [à l'église Saint-Pierre](https://www.google.com/maps/place/Eglise+Catholique+Saint+Pierre/@48.7621305,2.6694968,18z/data=!4m12!1m6!3m5!1s0x0:0x7b113febc448bee!2sMairie+d'Ozoir-la-Ferri%C3%A8re!8m2!3d48.7616095!4d2.6719999!3m4!1s0x47e6067c0baa2d47:0x368bfd28b2836a38!8m2!3d48.7625809!4d2.6686072?hl=fr-FR), située à 400m de la maire, à 15h

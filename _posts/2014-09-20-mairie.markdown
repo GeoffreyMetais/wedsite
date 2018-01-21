@@ -5,4 +5,4 @@ category: Services
 title: Engagement à la mairie
 description: |
 ---
-Bla bla bla
+La cérémonie civile aura lieu à [la mairie d'Ozoir-la-Ferrière](https://www.google.com/maps/place/Mairie+d'Ozoir-la-Ferri%C3%A8re/@48.76161,2.672,16z/data=!4m5!3m4!1s0x0:0x7b113febc448bee!8m2!3d48.7616095!4d2.6719999?hl=fr-FR) à 14h.
