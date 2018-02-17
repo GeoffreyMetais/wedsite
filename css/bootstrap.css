@@ -5953,6 +5953,19 @@ button.close {
 .modal-footer:after {
   clear: both;
 }
+.center-block-v {
+  display: block;
+  height: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
 .center-block {
   display: block;
   margin-right: auto;
