@@ -6,4 +6,6 @@ category: Services
 title: Repas et soirée
 description: |
 ---
-  Ces cérémonies seront suivies par un cocktail, un diner et une soirée dansante à [la Chablerie (77120 Marolles-en-Brie)](https://www.google.com/maps/place/La+Chablerie/@48.77692,3.161241,17z/data=!4m5!3m4!1s0x0:0x724fc230a5ff94c0!8m2!3d48.7769196!4d3.1612411?hl=fr-FR).
+  Ces cérémonies seront suivies par un cocktail, un dîner et une soirée dansante à [la Chablerie (77120 Marolles-en-Brie)](https://www.google.com/maps/place/La+Chablerie/@48.77692,3.161241,17z/data=!4m5!3m4!1s0x0:0x724fc230a5ff94c0!8m2!3d48.7769196!4d3.1612411?hl=fr-FR).
+
+  Vous serez les bienvenus le dimanche midi pour vous joindre à nous au brunch.
