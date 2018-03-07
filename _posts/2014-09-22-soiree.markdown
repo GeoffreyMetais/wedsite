@@ -3,9 +3,9 @@ layout: default
 img: repas.jpg
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314.6337578991008!2d3.1602225289680828!3d48.77678286672216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x724fc230a5ff94c0!2sLa+Chablerie!5e0!3m2!1sfr!2sfr!4v1516561507320" width="100%" height="100%" frameborder="0" style="border:0"
 category: Services
-title: Repas et soirée
+title: Festivités
 description: |
 ---
-  Ces cérémonies seront suivies par un cocktail, un dîner et une soirée dansante à [la Chablerie (77120 Marolles-en-Brie)](https://www.google.com/maps/place/La+Chablerie/@48.77692,3.161241,17z/data=!4m5!3m4!1s0x0:0x724fc230a5ff94c0!8m2!3d48.7769196!4d3.1612411?hl=fr-FR).
+Nous aurons le plaisir de vous recevoir à [La Chablerie (77120 Marolles-en-Brie)](https://www.google.com/maps/place/La+Chablerie/@48.77692,3.161241,17z/data=!4m5!3m4!1s0x0:0x724fc230a5ff94c0!8m2!3d48.7769196!4d3.1612411?hl=fr-FR){:target="_blank"} à partir de 18 heures pour un vin d'honneur suivi d'un dîner festif.
 
-  Vous serez les bienvenus le dimanche midi pour vous joindre à nous au brunch.
+Nous vous retrouverons à La Chablerie le lendemain à partir de midi autour d'un brunch décontracté.

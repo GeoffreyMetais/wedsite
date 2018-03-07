@@ -53,8 +53,9 @@ h6 {
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
-.intro-message > h3 {
+.intro-message > h2 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
 }
 
 @media(max-width:767px) {
@@ -112,7 +113,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/rsvp.jpg) no-repeat center center;
+    background: url(../img/fleurs.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -163,4 +164,8 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+.intro > h4 {
+    Line-Height: 150%;
 }

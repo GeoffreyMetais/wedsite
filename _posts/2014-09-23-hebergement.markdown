@@ -3,10 +3,10 @@ layout: default
 img: eglise.jpg
 img2: mairie.jpg
 category: Services
-title: Hébergement
+title: Hébergements
 description: |
 ---
-  Voici une liste d'hébergeurs pour vous aider à vous loger.
+Voici quelques adresses d'hôtels et de chambres d'hôte à proximité de la salle de réception
 
 # Hôtels
 
