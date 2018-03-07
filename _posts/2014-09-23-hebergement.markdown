@@ -2,6 +2,7 @@
 layout: default
 img: eglise.jpg
 img2: mairie.jpg
+img3: repas.jpeg
 category: Services
 title: Hébergements
 description: |
