@@ -11,11 +11,6 @@ Voici quelques adresses d'hôtels et de chambres d'hôte à proximité de la sal
 
 # Hôtels
 
-#### Thank (8 km)
-31, rue du Grand Morin 77120 Coulommiers  
-[01 64 65 18 59](tel:01 64 65 18 59)  
-[site web](http://www.hotelclasseco.com/coulommiers.html){:target="_blank"}
-
 #### Le Grand Terre (10 km)
 Aérodrome La Ferté Gaucher  
 Route de Choisy 77320 Chartronges  
